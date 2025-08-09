@@ -71,6 +71,7 @@ This tool is for **educational and authorized penetration testing only**.
 
 ## 📷 Screenshots
 <img width="1102" height="427" alt="image" src="https://github.com/user-attachments/assets/43ec27a7-1bc8-4309-a1e5-4e2214d31555" />
+<img width="1102" height="427" alt="Screenshot From 2025-08-09 16-38-43" src="https://github.com/user-attachments/assets/004dc32c-2c8a-4e12-a398-a608e27769a4" />
 
 
 ---
